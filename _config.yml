@@ -1,0 +1,28 @@
+name: alexandercox
+favicon: null
+layout_spectrum: 0.12386302673257887
+typography_spectrum: 0.3245967752300203
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.30093303439207375
+  lightness: 0.6512866234406829
+  saturation: 0.5824874960817397
+  rhythmicContrast: 0.1809782146010548
+purpose: []
